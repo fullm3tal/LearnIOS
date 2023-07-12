@@ -8,12 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		EB0706D72A5E220A008E9F92 /* LearnIOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB0706D62A5E220A008E9F92 /* LearnIOSApp.swift */; };
-		EB0706D92A5E220A008E9F92 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB0706D82A5E220A008E9F92 /* ContentView.swift */; };
 		EB0706DB2A5E220C008E9F92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB0706DA2A5E220C008E9F92 /* Assets.xcassets */; };
 		EB0706DE2A5E220C008E9F92 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB0706DD2A5E220C008E9F92 /* Preview Assets.xcassets */; };
 		EB0706E82A5E220C008E9F92 /* LearnIOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB0706E72A5E220C008E9F92 /* LearnIOSTests.swift */; };
 		EB0706F22A5E220C008E9F92 /* LearnIOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB0706F12A5E220C008E9F92 /* LearnIOSUITests.swift */; };
 		EB0706F42A5E220C008E9F92 /* LearnIOSUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB0706F32A5E220C008E9F92 /* LearnIOSUITestsLaunchTests.swift */; };
+		EB0707032A5E225D008E9F92 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB0706D82A5E220A008E9F92 /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -257,7 +257,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EB0706D92A5E220A008E9F92 /* ContentView.swift in Sources */,
+				EB0707032A5E225D008E9F92 /* ContentView.swift in Sources */,
 				EB0706D72A5E220A008E9F92 /* LearnIOSApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
